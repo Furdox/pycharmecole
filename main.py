@@ -22,3 +22,6 @@ sex = sex1 + sex2
 # string
 print(sex1 + " " + sex2)
 iHadSexWithYourMom = "miaou"
+"""
+sucez mon poulet svp
+"""
