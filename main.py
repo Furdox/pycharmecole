@@ -25,3 +25,7 @@ iHadSexWithYourMomFuckYouTeacherImUsingCamelCaseAndLongVarInsteadOfMinusculesAnd
 """
 sucez mon poulet svp
 """
+sex = 100
+while sex >= 0:
+    sex = sex - 1
+    print("*")
