@@ -1,3 +1,5 @@
+from itertools import count
+
 miaou = "miaou :3"
 print("miaou :3")
 
@@ -33,3 +35,6 @@ while sex7 >= 0:
 
 miaou = ["sex", "with", "hitler"]
 print(miaou[2])
+
+if reponse.lower().strip() in range(0, 10, 1) == True:
+    print(penis)
