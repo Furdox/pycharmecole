@@ -29,3 +29,7 @@ sex7 = 100000
 while sex7 >= 0:
     sex7 = sex7 - 1
     print("|" + "*"*sex7 + "|")
+
+
+miaou = ["sex", "with", "hitler"]
+print(miaou[2])
